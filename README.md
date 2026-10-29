@@ -1,5 +1,5 @@
 # HackPad-Cool
-A 9 switch, 9 LED, 1 rotary switch macropad powered by MOUDLE-SEEEDUINO-XIAO made for a YSWS on stardance mission hackpad.
+A 9 switch, 9 LED, 1 rotary switch macropad powered by MOUDLE-SEEEDUINO-XIAO with a 3D printing case.
 ## Features:
 3d printed case, 9 keys, 9 LED, 1 rotary encoder, 1 Seeed XIAO RP2040 + coded keys
 ## BOM/ bill of materials:
